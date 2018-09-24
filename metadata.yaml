@@ -1,5 +1,8 @@
 _repo: Meine-Mission-nach-Abessinien-Auf-Befehl-Sr-Maj-des-Deutschen-Kaisers-im-Winter-188081-untern__56392
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56392-h/images/cover.jpg
 creator:
   author:
     agent_name: Rohlfs, Gerhard
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5383
     wikipedia: http://de.wikipedia.org/wiki/Gerhard_Rohlfs_%28Afrikaforscher%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56392#Meine-Mission-nach-Abessinien-Auf-Befehl-Sr-Maj-des-Deutschen-Kaisers-im-Winter-188081-untern_
 gutenberg_issued: '2018-01-18'
 gutenberg_type: Text
 identifiers:
